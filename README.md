@@ -46,6 +46,14 @@ ln -s $DOTFILES/Kitty/* $HOME/.config/kitty/
 
 Skim cannot read a file alias, so you will have to copy things around (or hard link).
 
+To copy:
+
+```bash
+cp -f $HOME/Library/Preferences/net.sourceforge.skim-app.skim.plist $DOTFILES/Skim/settings.plist
+```
+
+To use:
+
 ```bash
 cp $DOTFILES/Skim/settings.plist $HOME/Library/Preferences/net.sourceforge.skim-app.skim.plist
 ```

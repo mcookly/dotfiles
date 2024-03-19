@@ -27,6 +27,13 @@ Use the in-software setting:
 
 *Preferences > General > Preferences > Load preferences from a custom folder or URL*
 
+### Kitty
+
+```bash
+mkdir ~/.config/kitty # Optional
+ln -s $DOTFILES/Kitty/* $HOME/.config/kitty/
+```
+
 ### VSCodium
 
 ```bash

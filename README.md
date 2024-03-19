@@ -20,3 +20,9 @@ ln -s $DOTFILES/Emacs/* $HOME/.emacs.d/
 mkdir ~/.config/helix # Optional
 ln -s $DOTFILES/Helix/* $HOME/.config/helix/
 ```
+
+### Zsh
+
+```bash
+ln -s $DOTFILES/Zsh/zshrc $HOME/.zshrc
+```

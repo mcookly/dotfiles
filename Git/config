@@ -1,0 +1,7 @@
+[user]
+	name = mcookly
+	email = 20271792+mcookly@users.noreply.github.com
+[init]
+	defaultBranch = master
+[core]
+	excludesfile = /Users/mc/.gitignore_global

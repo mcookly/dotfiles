@@ -21,6 +21,12 @@ mkdir ~/.config/helix # Optional
 ln -s $DOTFILES/Helix/* $HOME/.config/helix/
 ```
 
+### iTerm
+
+Use the in-software setting:
+
+*Preferences > General > Preferences > Load preferences from a custom folder or URL*
+
 ### VSCodium
 
 ```bash

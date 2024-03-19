@@ -1,0 +1,26 @@
+theme = "ayu_light"
+
+[editor]
+line-number = "relative"
+cursorline = true
+
+[editor.file-picker]
+hidden = false
+
+[editor.statusline]
+right = ["version-control", "diagnostics", "register", "position"]
+
+[editor.whitespace.render]
+tab = "all"
+
+[editor.whitespace.characters]
+nbsp = "⍽"
+tab = "→"
+
+[editor.indent-guides]
+render = true
+character = "┆"
+
+[editor.soft-wrap]
+enable = true
+wrap-at-text-width = true

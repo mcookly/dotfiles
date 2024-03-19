@@ -13,3 +13,10 @@ For each program -- alphabetically listed below -- are the commands needed to in
 mkdir ~/.emacs.d # Optional
 ln -s $DOTFILES/Emacs/* $HOME/.emacs.d/
 ```
+
+### Helix
+
+```bash
+mkdir ~/.config/helix # Optional
+ln -s $DOTFILES/Helix/* $HOME/.config/helix/
+```

@@ -4,4 +4,4 @@ path+=('/usr/local/bin/cargo')
 export DOTFILES="$HOME/code/dotfiles"
 export EDITOR=vim
 export PATH
-export VISUAL=(open -e)
+export VISUAL=cot

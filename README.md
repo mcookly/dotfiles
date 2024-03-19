@@ -21,6 +21,12 @@ mkdir ~/.config/helix # Optional
 ln -s $DOTFILES/Helix/* $HOME/.config/helix/
 ```
 
+### VSCodium
+
+```bash
+ln -s $DOTFILES/VSCodium/settings.json "$HOME/Library/Application Support/VSCodium/User/settings.json"
+```
+
 ### Zsh
 
 ```bash

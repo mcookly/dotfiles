@@ -169,7 +169,7 @@
 	<key>CursorType</key>
 	<integer>0</integer>
 	<key>EastAsianAmbiguousWide</key>
-	<true/>
+	<false/>
 	<key>Font</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS

@@ -58,6 +58,12 @@ To use:
 cp $DOTFILES/Skim/settings.plist $HOME/Library/Preferences/net.sourceforge.skim-app.skim.plist
 ```
 
+### Terminal.app
+
+Use the in-software setting:
+
+*Preferences > Profiles > Import …*
+
 ### VSCodium
 
 ```bash

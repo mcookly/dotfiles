@@ -75,3 +75,12 @@ ln -s $DOTFILES/VSCodium/settings.json "$HOME/Library/Application Support/VSCodi
 ```bash
 ln -s $DOTFILES/Zsh/zshrc $HOME/.zshrc
 ```
+
+
+## Setting Defaults
+
+I use [`duti`](https://github.com/moretension/duti) to set default programs on MacOS. Currently, I'm using [CotEditor](https://coteditor.com/), so for example:
+
+```bash
+duti -s com.coteditor.CotEditor public.plain-text all
+```

@@ -1,0 +1,14 @@
+# Version 1.0 -- Generated content!
+PATH             = $PATH:/opt/local/bin:/usr/local/bin:/usr/texbin
+TM_GIT           = /opt/local/bin/git
+fontName         = IBMPlexMono-Regular
+fontSize         = 14
+lineEndings      = '\n'
+showIndentGuides = false
+softTabs         = false
+softWrap         = true
+tabSize          = 8
+wrapColumn       = 80
+
+[ attr.file.unknown-type ]
+fileType         = text.plain

@@ -1,0 +1,8 @@
+[user]
+	name                        = Maximilian Cook
+	email                       = maxtcook@gmail.com
+[init]
+	defaultBranch               = master
+[core]
+	ignorecase                  = true
+	whitespace                  = -trailing-space

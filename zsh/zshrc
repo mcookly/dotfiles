@@ -1,0 +1,12 @@
+path+=('/usr/local/bin/cargo')
+path+=("$HOME/.local/bin")
+
+alias emacs='open -na Emacs --args --chdir $PWD \"@\"'
+alias e='emacs'
+alias ec='/Applications/MacPorts/Emacs.app/Contents/MacOS/bin/emacsclient -nc -a \"\"'
+
+export BIBLIOGRAPHY="$HOME/main.bib"
+export CSL_STYLES="$HOME/Zotero/styles"
+export DOTFILES="$HOME/code/dotfiles"
+export PATH
+export VISUAL=(ec)
